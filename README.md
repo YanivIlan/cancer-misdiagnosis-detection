@@ -105,7 +105,7 @@ K-Means achieved the best performance:
 ```
 .
 ├── main.py                                    # Main analysis pipeline
-├── paper.pdf                                # Full research paper
+├── paper.pdf                                  # Full research paper
 ├── README.md                                  # This file
 │
 ├── data/                                      # Input datasets (not included)
@@ -126,7 +126,7 @@ K-Means achieved the best performance:
 │   ├── head_neck_squamous_cell_carcinoma_highlighted/
 │   └── breast_invasive_carcinoma_highlighted/
 │
-└── scripts/                                   # Utility functions (if separate)
+
 ```
 
 ---
