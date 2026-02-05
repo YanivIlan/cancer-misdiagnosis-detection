@@ -98,8 +98,6 @@ K-Means achieved the best performance:
 - **Averaged Score:** 0.7766 ± 0.01 (vs. 0.776 GMM, 0.691 DBSCAN, 0.750 HDBSCAN)
 - **Statistically significant** improvement over all alternatives (p < 1e-6)
 
-![Visualization Example](cholangiocarcinoma_highlighted/kmeans_cholangiocarcinoma_highlighted.png)
-
 ---
 
 ## 📁 Repository Structure
