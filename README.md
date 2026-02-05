@@ -107,7 +107,7 @@ K-Means achieved the best performance:
 ```
 .
 ├── main.py                                    # Main analysis pipeline
-├── MainTex.pdf                                # Full research paper
+├── paper.pdf                                # Full research paper
 ├── README.md                                  # This file
 │
 ├── data/                                      # Input datasets (not included)
@@ -216,9 +216,3 @@ If you use this work, please cite:
 ```
 
 ---
-
-<div align="center">
-  
-**⭐ Star this repo if you find it useful! ⭐**
-
-</div>
